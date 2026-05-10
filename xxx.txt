@@ -1,1 +1,0 @@
-WINEDLLOVERRIDES="d3dcompiler_47=n;mscoree=d;mshtml=d" PRESSURE_VESSEL_FILESYSTEMS_RW="$HOME/.local/share/Steam/steamapps/common/Call of Duty Modern Warfare 3" %command%
